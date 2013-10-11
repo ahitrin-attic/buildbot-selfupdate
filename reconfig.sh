@@ -2,4 +2,8 @@
 
 unset CDPATH
 cd `dirname $BASH_SOURCE[0]`
-pwd
+
+# Выходим из папки билда
+buildbot_root=../../../
+cd $buildbot_root/master
+buildbot reconfig
