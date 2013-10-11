@@ -4,4 +4,4 @@ master.cfg*
 *.sqlite
 *.log
 *.pid
-gitpoller-workdir
+gitpoller-selfupdate
