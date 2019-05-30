@@ -1,2 +1,2 @@
-buildbot==0.8.8
-buildbot-slave==0.8.8
+buildbot>=1.8.2
+buildbot-slave>=1.8.2
